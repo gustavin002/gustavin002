@@ -126,7 +126,7 @@ Aprender → Construir → Conseguir meu primeiro estágio
 | Versionamento | 🔧 Git · GitHub |
 | IDE / Editor | 💻 NetBeans |
 | Formação | 🎓 Engenharia de Software — UniFil |
-| Cursos complementares | 📘 Técnico em Dev. de Sistemas (Senai) · Java Web · Power BI |
+| Cursos complementares | 📘 Técnico em Dev. de Sistemas · Java Web · Power BI |
 
 </div>
 
