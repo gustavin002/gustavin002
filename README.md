@@ -263,10 +263,12 @@ $ ./current_goals.sh
 ## 09 // CONTRIBUTION MATRIX
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/gustavin002/gustavin002/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavin002/gustavin002/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavin002/gustavin002/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/gustavin002/gustavin002/output/pacman-contribution-graph.svg">
+</picture>
 </div>
-
-> ⚠️ Essa "cobrinha" animada exige configurar uma GitHub Action no seu repositório de perfil (arquivo `.github/workflows/snake.yml`). Se não configurar, essa imagem não aparece — posso te passar o passo a passo se quiser.
 
 ## 10 // CONNECT
 
