@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B46,100:00F0FF&height=230&section=header&text=SYSTEM%20ONLINE&fontSize=55&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20JavaScript&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003B46,100:00F0FF&height=230&section=header&text=GUSTAVO%20MAIA&fontSize=55&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20JavaScript&descAlignY=60&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Gustavo+Maia+%F0%9F%91%8B;Full+Stack+Developer+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Java+%2B+Spring+Boot;React+%7C+HTML+%7C+CSS+%7C+MySQL;Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Buscando+minha+primeira+oportunidade+de+est%C3%A1gio+%E2%9A%A1" alt="Typing Animation"/>
 
