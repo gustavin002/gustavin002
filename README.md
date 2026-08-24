@@ -31,59 +31,30 @@
 
 ## 01 // SOBRE MIM
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                       DEVELOPER PROFILE                       ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                                ║
-║  > identity.load()                                            ║
-║                                                                ║
-║  Nome.............. [ Gustavo Maia da Silva ]                 ║
-║  Idade............. [ 20 ]                                    ║
-║  Localização....... [ Londrina - PR, Brasil ]                 ║
-║  Área.............. [ Full Stack Development ]                ║
-║  Linguagem......... [ Java + Spring Boot + Spring Data JPA ]   ║
-║  Front-End......... [ HTML / CSS / JavaScript / Bootstrap 5 / React ] ║
-║  Template Engine... [ Thymeleaf ]                              ║
-║  Database.......... [ MySQL ]                                 ║
-║  Formação.......... [ Engenharia de Software ]                ║
-║  Instituição....... [ UniFil - 1º semestre ]                  ║
-║                                                                ║
-║  > status                                                🟢   ║
-║  ONLINE — BUSCANDO ESTÁGIO                                    ║
-║                                                                ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 Olá! 👋 Sou o Gustavo, tenho 20 anos, moro em Londrina-PR e sou desenvolvedor Full Stack em formação, com foco no ecossistema Java no back-end e JavaScript/React no front-end.
 
-Atualmente curso Engenharia de Software na UniFil (1º semestre) e já passei pelo Senai, onde concluí o técnico em Desenvolvimento de Sistemas, além de cursos de aperfeiçoamento em Java Web e Power BI. No back-end, trabalho com Java utilizando o framework Spring Boot.
+Atualmente curso Engenharia de Software na UniFil (1º semestre) e já passei pelo Senai, onde concluí o técnico em Desenvolvimento de Sistemas, além de cursos de aperfeiçoamento em Java Web e Power BI.
 
 Meu objetivo agora é conseguir minha primeira vaga de estágio como desenvolvedor e continuar evoluindo como profissional Full Stack.
 
-```
-> java --version
-Java Developer
+<div align="center">
 
-> framework --backend
-Spring Boot + Spring Data JPA
+| Campo | Detalhe |
+|---|---|
+| 👤 Nome | Gustavo Maia da Silva |
+| 🎂 Idade | 20 |
+| 📍 Localização | Londrina - PR, Brasil |
+| 🎯 Área | Full Stack Development |
+| ☕ Back-End | Java · Spring Boot · Spring Data JPA |
+| 🌐 Front-End | HTML · CSS · JavaScript · Bootstrap 5 · React |
+| 🍃 Template Engine | Thymeleaf |
+| 🐬 Database | MySQL |
+| 🎓 Formação | Engenharia de Software — UniFil (1º semestre) |
+| 🟢 Status | Online — buscando estágio |
 
-> frontend --stack
-HTML + CSS + JavaScript + Bootstrap 5 + React
+</div>
 
-> templating --engine
-Thymeleaf
-
-> database --engine
-MySQL
-
-> education --status
-Engenharia de Software @ UniFil (1º semestre)
-Técnico em Desenvolvimento de Sistemas @ Senai
-
-> mission --execute
-Aprender → Construir → Conseguir meu primeiro estágio
-```
+> **Missão:** Aprender → Construir → Conseguir meu primeiro estágio 🚀
 
 ## 02 // TECH STACK
 
@@ -126,37 +97,27 @@ Aprender → Construir → Conseguir meu primeiro estágio
 | Versionamento | 🔧 Git · GitHub |
 | IDE / Editor | 💻 NetBeans |
 | Formação | 🎓 Engenharia de Software — UniFil |
-| Cursos complementares | 📘 Técnico em Dev. de Sistemas · Java Web · Power BI |
+| Cursos complementares | 📘 Técnico em Dev. de Sistemas (Senai) · Java Web · Power BI |
 
 </div>
 
 ## 04 // FERRAMENTAS
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                     DEVELOPMENT TOOLS                        │
-└──────────────────────────────────────────────────────────────┘
+<div align="center">
 
-$ tools --scan
+| Categoria | Ferramenta | Status |
+|---|---|---|
+| Versionamento | Git | ✅ |
+| Versionamento | GitHub | ✅ |
+| IDE | NetBeans | ✅ |
+| Database | MySQL | ✅ |
+| Front-End | Bootstrap 5 | ✅ |
+| Back-End | Spring Boot | ✅ |
+| Back-End | Spring Data JPA | ✅ |
+| Template Engine | Thymeleaf | ✅ |
+| Front-End | React | ✅ |
 
-[✓] Git
-[✓] GitHub
-[✓] NetBeans
-[✓] MySQL
-[✓] Bootstrap 5
-[✓] Spring Boot
-[✓] Spring Data JPA
-[✓] Thymeleaf
-[✓] React
-
-$ system.status
-
-Backend      : Java + Spring Boot + Spring Data JPA
-Frontend     : HTML / CSS / JavaScript / Bootstrap 5 / React
-Templating   : Thymeleaf
-Database     : MySQL
-Versioning   : Git / GitHub
-```
+</div>
 
 ## 05 // PROJETOS
 
@@ -211,31 +172,24 @@ Sistema para gerenciamento de filas de atendimento hospitalar, unindo front-end 
 </table>
 </div>
 
-> ⚠️ As descrições acima foram feitas com base no nome dos repositórios — ajuste conforme o que cada projeto realmente faz, e capriche no README individual de cada um (com prints, como rodar, etc).
-
 ## 06 // CURRENT OBJECTIVES
 
-```
-╭────────────────────────────────────────────────────────────╮
-│                 // MISSION CONTROL                          │
-╰────────────────────────────────────────────────────────────╯
+<div align="center">
 
-$ ./current_goals.sh
+| Objetivo | Progresso |
+|---|---|
+| 🎯 Conseguir meu primeiro estágio como desenvolvedor | ███████░░░ 70% |
+| ☕ Aprofundar conhecimentos em Java | ██████░░░░ 60% |
+| ⚛️ Evoluir em React | ███████░░░ 70% |
+| 🐬 Aprofundar conhecimentos em MySQL | █████░░░░░ 50% |
+| 🏗️ Praticar arquitetura de projetos full stack | █████░░░░░ 50% |
+| 💡 Criar projetos pessoais mais completos | ████░░░░░░ 40% |
+| 🎓 Concluir Engenharia de Software (1º semestre) | ███░░░░░░░ 30% |
 
-[■■■■■■■░░░] Conseguir meu primeiro estágio como desenvolvedor
-[■■■■■■░░░░] Aprofundar conhecimentos em Java
-[■■■■■■■░░░] Evoluir em React
-[■■■■■░░░░░] Aprofundar conhecimentos em MySQL
-[■■■■■░░░░░] Praticar arquitetura de projetos full stack
-[■■■■░░░░░░] Criar projetos pessoais mais completos
-[■■■□□□□□□□] Concluir Engenharia de Software (1º semestre)
+</div>
 
-> next_target:
-> Conseguir minha primeira oportunidade na área de TI.
-
-> status:
-> 🟢 LEARNING & BUILDING
-```
+> **Próximo alvo:** Conseguir minha primeira oportunidade na área de TI.
+> **Status:** 🟢 Aprendendo e construindo
 
 ## 07 // GITHUB ANALYTICS
 
@@ -257,7 +211,7 @@ $ ./current_goals.sh
 ## 08 // GITHUB TROPHIES
 
 <div align="center">
-<img src="https://github-profile-trophy-liard.vercel.app/?username=gustavin002&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%"/>
+<img src="https://github-profile-trophy-winning.vercel.app/?username=gustavin002&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%"/>
 </div>
 
 ## 09 // CONTRIBUTION MATRIX
