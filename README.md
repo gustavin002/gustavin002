@@ -257,7 +257,7 @@ $ ./current_goals.sh
 ## 08 // GITHUB TROPHIES
 
 <div align="center">
-<img src="https://github-profile-trophy-winning.vercel.app/?username=gustavin002&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%"/>
+<img src="https://github-profile-trophy-liard.vercel.app/?username=gustavin002&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%"/>
 </div>
 
 ## 09 // CONTRIBUTION MATRIX
